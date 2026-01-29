@@ -50,7 +50,7 @@ Powered by [OpenAI Whisper](https://github.com/ggerganov/whisper.cpp) (Local) an
 | Shortcut | Action |
 |----------|--------|
 | `Ctrl + Alt + R` | Start / Stop Recording |
-| `Ctrl + Shift + Space` | Alternate Toggle |
+
 
 ## 🛠️ Tech Stack
 
