@@ -70,5 +70,5 @@ If you love AuraType and it helps your workflow, consider buying me a coffee!
 
 ---
 
-**Author**: [Kopa21](https://github.com/kopa21)
+**Author**: [kopa]([https://github.com/kopa21](https://github.com/b0korpat))
 **License**: MIT
